@@ -2,12 +2,17 @@
 
 Ujicrypto
 
+![Home Page](https://github.com/irfansyah-r/ujicrypto/blob/main/preview/Home.png?raw=true)
+
 ## Description
 
 * Ujicrypto merupakan project pemantauan harga mata uang crypto sekaligus dengan 3 indikator nya yang dibuat custom dengan perhitungan manual yaitu :
     * Moving Average
     * Stochastic
     * Parabolic SAR
+
+![Indicator Page](https://github.com/irfansyah-r/ujicrypto/blob/main/preview/Indicator.png?raw=true)
+
 * Menggunakan Laravek versi 9.17.0
 * Data harga diambil dari API Binance Exchange
 
